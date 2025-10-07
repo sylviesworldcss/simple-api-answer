@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #087FC2;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 160px;
+}
+
+/* pseudo code
+I want the h1 to have an outline of solid black.
+I want the input and submit button to be bigger.
+I want the whole page to center in the middle of the page
+I want an office background picture
+I want it to be responsive */
